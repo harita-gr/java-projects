@@ -1,4 +1,4 @@
-# javaProjects
+# Java Projects
 *Beginner Level Java Projects*
 
 1. Car Dealership
